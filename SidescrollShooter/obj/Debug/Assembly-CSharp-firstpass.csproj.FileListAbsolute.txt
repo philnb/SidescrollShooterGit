@@ -37,6 +37,6 @@ C:\Users\Philipp\Documents\GitHub\SideScrollshooter\SidescrollShooterGit\Sidescr
 C:\Users\Philipp\Documents\GitHub\SideScrollshooter\SidescrollShooterGit\SidescrollShooter\Temp\bin\Debug\UnityEditor.xml
 C:\Users\Philipp\Documents\GitHub\SideScrollshooter\SidescrollShooterGit\SidescrollShooter\Temp\bin\Debug\UnityEngine.UI.xml
 C:\Users\Philipp\Documents\GitHub\SideScrollshooter\SidescrollShooterGit\SidescrollShooter\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Philipp\Documents\GitHub\SideScrollshooter\SidescrollShooterGit\SidescrollShooter\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
 C:\Users\Philipp\Documents\GitHub\SideScrollshooter\SidescrollShooterGit\SidescrollShooter\obj\Debug\Assembly-CSharp-firstpass.dll
 C:\Users\Philipp\Documents\GitHub\SideScrollshooter\SidescrollShooterGit\SidescrollShooter\obj\Debug\Assembly-CSharp-firstpass.pdb
-C:\Users\Philipp\Documents\GitHub\SideScrollshooter\SidescrollShooterGit\SidescrollShooter\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
