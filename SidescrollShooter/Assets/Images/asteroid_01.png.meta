@@ -1,0 +1,1376 @@
+fileFormatVersion: 2
+guid: 2eefe5795d8712c4f84623c60d2a4279
+timeCreated: 1454247936
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: asteroid_01_0
+    21300002: asteroid_01_1
+    21300004: asteroid_01_2
+    21300006: asteroid_01_3
+    21300008: asteroid_01_4
+    21300010: asteroid_01_5
+    21300012: asteroid_01_6
+    21300014: asteroid_01_7
+    21300016: asteroid_01_8
+    21300018: asteroid_01_9
+    21300020: asteroid_01_10
+    21300022: asteroid_01_11
+    21300024: asteroid_01_12
+    21300026: asteroid_01_13
+    21300028: asteroid_01_14
+    21300030: asteroid_01_15
+    21300032: asteroid_01_16
+    21300034: asteroid_01_17
+    21300036: asteroid_01_18
+    21300038: asteroid_01_19
+    21300040: asteroid_01_20
+    21300042: asteroid_01_21
+    21300044: asteroid_01_22
+    21300046: asteroid_01_23
+    21300048: asteroid_01_24
+    21300050: asteroid_01_25
+    21300052: asteroid_01_26
+    21300054: asteroid_01_27
+    21300056: asteroid_01_28
+    21300058: asteroid_01_29
+    21300060: asteroid_01_30
+    21300062: asteroid_01_31
+    21300064: asteroid_01_32
+    21300066: asteroid_01_33
+    21300068: asteroid_01_34
+    21300070: asteroid_01_35
+    21300072: asteroid_01_36
+    21300074: asteroid_01_37
+    21300076: asteroid_01_38
+    21300078: asteroid_01_39
+    21300080: asteroid_01_40
+    21300082: asteroid_01_41
+    21300084: asteroid_01_42
+    21300086: asteroid_01_43
+    21300088: asteroid_01_44
+    21300090: asteroid_01_45
+    21300092: asteroid_01_46
+    21300094: asteroid_01_47
+    21300096: asteroid_01_48
+    21300098: asteroid_01_49
+    21300100: asteroid_01_50
+    21300102: asteroid_01_51
+    21300104: asteroid_01_52
+    21300106: asteroid_01_53
+    21300108: asteroid_01_54
+    21300110: asteroid_01_55
+    21300112: asteroid_01_56
+    21300114: asteroid_01_57
+    21300116: asteroid_01_58
+    21300118: asteroid_01_59
+    21300120: asteroid_01_60
+    21300122: asteroid_01_61
+    21300124: asteroid_01_62
+    21300126: asteroid_01_63
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: asteroid_01_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 915
+        width: 94
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 41.5}
+        - {x: 16, y: 44.5}
+        - {x: -23, y: 44.5}
+        - {x: -30, y: 41.5}
+        - {x: -44, y: 19.5}
+        - {x: -47, y: 15.5}
+        - {x: -47, y: -32.5}
+        - {x: -20, y: -44.5}
+        - {x: 41, y: -44.5}
+        - {x: 47, y: -38.5}
+        - {x: 47, y: 26.5}
+    - name: asteroid_01_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 915
+        width: 96
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 46.5}
+        - {x: -30, y: 37.5}
+        - {x: -40, y: 21.5}
+        - {x: -48, y: 6.5}
+        - {x: -48, y: -38.5}
+        - {x: -26, y: -46.5}
+        - {x: 45, y: -46.5}
+        - {x: 48, y: -36.5}
+        - {x: 48, y: 20.5}
+        - {x: 22, y: 46.5}
+    - name: asteroid_01_2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 912
+        width: 97
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 50}
+        - {x: -41.5, y: 40}
+        - {x: -48.5, y: 8}
+        - {x: -48.5, y: -30}
+        - {x: -23.5, y: -50}
+        - {x: 31.5, y: -50}
+        - {x: 48.5, y: -25}
+        - {x: 48.5, y: 34}
+        - {x: 22.5, y: 50}
+    - name: asteroid_01_3
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 908
+        width: 100
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 52.5}
+        - {x: -43, y: 45.5}
+        - {x: -50, y: 18.5}
+        - {x: -50, y: -33.5}
+        - {x: -18, y: -52.5}
+        - {x: 16, y: -52.5}
+        - {x: 29, y: -51.5}
+        - {x: 50, y: -20.5}
+        - {x: 50, y: 52.5}
+    - name: asteroid_01_4
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 908
+        width: 100
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50, y: 13}
+        - {x: 33, y: 53}
+        - {x: 28, y: 54}
+        - {x: -17, y: 54}
+        - {x: -46, y: 39}
+        - {x: -50, y: 18}
+        - {x: -50, y: -33}
+        - {x: -16, y: -54}
+        - {x: -3, y: -54}
+        - {x: 25, y: -46}
+        - {x: 46, y: -31}
+        - {x: 50, y: -16}
+    - name: asteroid_01_5
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 908
+        width: 98
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 54}
+        - {x: -19, y: 54}
+        - {x: -47, y: 29}
+        - {x: -49, y: 15}
+        - {x: -49, y: -29}
+        - {x: -17, y: -54}
+        - {x: 15, y: -54}
+        - {x: 26, y: -52}
+        - {x: 49, y: -27}
+        - {x: 49, y: 30}
+        - {x: 45, y: 49}
+    - name: asteroid_01_6
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 910
+        width: 97
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: 53}
+        - {x: -23.5, y: 53}
+        - {x: -48.5, y: 23}
+        - {x: -48.5, y: -36}
+        - {x: -39.5, y: -53}
+        - {x: 31.5, y: -53}
+        - {x: 48.5, y: -21}
+        - {x: 48.5, y: 22}
+        - {x: 41.5, y: 46}
+    - name: asteroid_01_7
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 908
+        width: 96
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 52.5}
+        - {x: -48, y: 27.5}
+        - {x: -48, y: -29.5}
+        - {x: -27, y: -52.5}
+        - {x: 19, y: -52.5}
+        - {x: 48, y: -30.5}
+        - {x: 48, y: 25.5}
+        - {x: 37, y: 52.5}
+    - name: asteroid_01_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 776
+        width: 92
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 52.5}
+        - {x: -46, y: 38.5}
+        - {x: -46, y: -35.5}
+        - {x: -45, y: -41.5}
+        - {x: -19, y: -52.5}
+        - {x: 15, y: -52.5}
+        - {x: 46, y: -38.5}
+        - {x: 46, y: 48.5}
+        - {x: 40, y: 52.5}
+    - name: asteroid_01_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 776
+        width: 92
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: -42.5}
+        - {x: -30, y: -50.5}
+        - {x: 6, y: -50.5}
+        - {x: 46, y: -20.5}
+        - {x: 46, y: 37.5}
+        - {x: 27, y: 50.5}
+        - {x: -36, y: 50.5}
+        - {x: -46, y: 48.5}
+    - name: asteroid_01_10
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 779
+        width: 93
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 48.5}
+        - {x: -46.5, y: -28.5}
+        - {x: -23.5, y: -48.5}
+        - {x: 24.5, y: -48.5}
+        - {x: 46.5, y: -23.5}
+        - {x: 46.5, y: 35.5}
+        - {x: 36.5, y: 48.5}
+    - name: asteroid_01_11
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 780
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: 46.5}
+        - {x: 31, y: 48.5}
+        - {x: -33, y: 48.5}
+        - {x: -46, y: 27.5}
+        - {x: -46, y: -11.5}
+        - {x: -38, y: -36.5}
+        - {x: -31, y: -48.5}
+        - {x: 10, y: -48.5}
+        - {x: 45, y: -39.5}
+        - {x: 46, y: -34.5}
+        - {x: 46, y: 12.5}
+        - {x: 44, y: 29.5}
+    - name: asteroid_01_12
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 784
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 47}
+        - {x: -45.5, y: 24}
+        - {x: -45.5, y: -38}
+        - {x: -29.5, y: -47}
+        - {x: 37.5, y: -47}
+        - {x: 45.5, y: -41}
+        - {x: 45.5, y: 43}
+        - {x: 22.5, y: 47}
+    - name: asteroid_01_13
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 788
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 46}
+        - {x: -45, y: 26}
+        - {x: -45, y: -16}
+        - {x: -34, y: -46}
+        - {x: 21, y: -46}
+        - {x: 45, y: -31}
+        - {x: 45, y: 24}
+        - {x: 13, y: 46}
+    - name: asteroid_01_14
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 792
+        width: 92
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 44}
+        - {x: -24, y: 44}
+        - {x: -46, y: 17}
+        - {x: -46, y: -20}
+        - {x: -40, y: -44}
+        - {x: 40, y: -44}
+        - {x: 46, y: -36}
+        - {x: 46, y: 21}
+        - {x: 25, y: 38}
+    - name: asteroid_01_15
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 791
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 39.5}
+        - {x: -8, y: 44.5}
+        - {x: -19, y: 44.5}
+        - {x: -45, y: 19.5}
+        - {x: -45, y: -25.5}
+        - {x: -27, y: -44.5}
+        - {x: 35, y: -44.5}
+        - {x: 44, y: -34.5}
+        - {x: 45, y: -31.5}
+        - {x: 45, y: 13.5}
+    - name: asteroid_01_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 661
+        width: 94
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 44}
+        - {x: -34, y: 44}
+        - {x: -47, y: 39}
+        - {x: -47, y: -44}
+        - {x: 29, y: -44}
+        - {x: 47, y: -37}
+        - {x: 47, y: 19}
+        - {x: 35, y: 40}
+    - name: asteroid_01_17
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 659
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: -38.5}
+        - {x: -42, y: -46.5}
+        - {x: 34, y: -46.5}
+        - {x: 49, y: -42.5}
+        - {x: 49, y: 46.5}
+        - {x: -33, y: 46.5}
+        - {x: -49, y: 17.5}
+    - name: asteroid_01_18
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 658
+        width: 100
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 47.5}
+        - {x: -50, y: 28.5}
+        - {x: -50, y: -42.5}
+        - {x: -41, y: -47.5}
+        - {x: 29, y: -47.5}
+        - {x: 40, y: -46.5}
+        - {x: 50, y: -36.5}
+        - {x: 50, y: 30.5}
+        - {x: 38, y: 47.5}
+    - name: asteroid_01_19
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 656
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 42.5}
+        - {x: 13, y: 49.5}
+        - {x: -33, y: 49.5}
+        - {x: -50, y: 41.5}
+        - {x: -50, y: -49.5}
+        - {x: 19, y: -49.5}
+        - {x: 33, y: -47.5}
+        - {x: 44, y: -28.5}
+        - {x: 50, y: -11.5}
+        - {x: 50, y: 9.5}
+    - name: asteroid_01_20
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 656
+        width: 98
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 50}
+        - {x: -49, y: 20}
+        - {x: -49, y: -50}
+        - {x: 37, y: -50}
+        - {x: 49, y: -38}
+        - {x: 49, y: 44}
+        - {x: 21, y: 50}
+    - name: asteroid_01_21
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 656
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 49}
+        - {x: -31, y: 49}
+        - {x: -48, y: 19}
+        - {x: -48, y: -49}
+        - {x: 32, y: -49}
+        - {x: 48, y: -17}
+        - {x: 48, y: 32}
+    - name: asteroid_01_22
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 656
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 48}
+        - {x: -36.5, y: 48}
+        - {x: -46.5, y: 39}
+        - {x: -47.5, y: 32}
+        - {x: -47.5, y: -42}
+        - {x: -30.5, y: -48}
+        - {x: 14.5, y: -48}
+        - {x: 28.5, y: -42}
+        - {x: 47.5, y: -30}
+        - {x: 47.5, y: 41}
+    - name: asteroid_01_23
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 658
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 45}
+        - {x: -34, y: 45}
+        - {x: -46, y: 38}
+        - {x: -46, y: -39}
+        - {x: -44, y: -45}
+        - {x: 43, y: -45}
+        - {x: 46, y: -31}
+        - {x: 46, y: 41}
+        - {x: 33, y: 44}
+    - name: asteroid_01_24
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 531
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 44.5}
+        - {x: -45, y: 33.5}
+        - {x: -45, y: -36.5}
+        - {x: -37, y: -44.5}
+        - {x: 45, y: -44.5}
+        - {x: 45, y: 44.5}
+    - name: asteroid_01_25
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 528
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 46.5}
+        - {x: -47, y: -40.5}
+        - {x: -29, y: -46.5}
+        - {x: 47, y: -46.5}
+        - {x: 47, y: 46.5}
+    - name: asteroid_01_26
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 528
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 48}
+        - {x: -47.5, y: 18}
+        - {x: -47.5, y: -19}
+        - {x: -28.5, y: -48}
+        - {x: 36.5, y: -48}
+        - {x: 47.5, y: -33}
+        - {x: 47.5, y: 48}
+    - name: asteroid_01_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 531
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 46.5}
+        - {x: -48.5, y: 21.5}
+        - {x: -48.5, y: -29.5}
+        - {x: -23.5, y: -46.5}
+        - {x: 13.5, y: -46.5}
+        - {x: 48.5, y: -35.5}
+        - {x: 48.5, y: 33.5}
+        - {x: 30.5, y: 46.5}
+    - name: asteroid_01_28
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 532
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 46}
+        - {x: -30.5, y: 39}
+        - {x: -41.5, y: 26}
+        - {x: -48.5, y: 9}
+        - {x: -48.5, y: -22}
+        - {x: -24.5, y: -46}
+        - {x: 20.5, y: -46}
+        - {x: 48.5, y: -36}
+        - {x: 48.5, y: 24}
+        - {x: 28.5, y: 46}
+    - name: asteroid_01_29
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 532
+        width: 94
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 44.5}
+        - {x: -47, y: 40.5}
+        - {x: -47, y: -30.5}
+        - {x: -43, y: -44.5}
+        - {x: 21, y: -44.5}
+        - {x: 47, y: -33.5}
+        - {x: 47, y: 19.5}
+        - {x: 31, y: 44.5}
+    - name: asteroid_01_30
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 532
+        width: 92
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 43}
+        - {x: -46, y: 26}
+        - {x: -46, y: -27}
+        - {x: -34, y: -43}
+        - {x: 46, y: -43}
+        - {x: 46, y: 21}
+        - {x: 23, y: 43}
+    - name: asteroid_01_31
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 532
+        width: 91
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: -18.5}
+        - {x: -33.5, y: -42.5}
+        - {x: 45.5, y: -42.5}
+        - {x: 45.5, y: 37.5}
+        - {x: 44.5, y: 42.5}
+        - {x: -32.5, y: 42.5}
+        - {x: -45.5, y: 28.5}
+    - name: asteroid_01_32
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 400
+        width: 85
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 47}
+        - {x: -34.5, y: 45}
+        - {x: -42.5, y: 25}
+        - {x: -42.5, y: -5}
+        - {x: -34.5, y: -39}
+        - {x: -14.5, y: -47}
+        - {x: 26.5, y: -47}
+        - {x: 42.5, y: -30}
+        - {x: 42.5, y: 29}
+        - {x: 23.5, y: 47}
+    - name: asteroid_01_33
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 401
+        width: 86
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: -3.5}
+        - {x: -32, y: -34.5}
+        - {x: -30, y: -39.5}
+        - {x: -24, y: -47.5}
+        - {x: 27, y: -47.5}
+        - {x: 43, y: -38.5}
+        - {x: 43, y: 16.5}
+        - {x: 30, y: 47.5}
+        - {x: -38, y: 47.5}
+        - {x: -43, y: 24.5}
+    - name: asteroid_01_34
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 401
+        width: 89
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 49.5}
+        - {x: -9.5, y: 49.5}
+        - {x: -44.5, y: 26.5}
+        - {x: -44.5, y: -12.5}
+        - {x: -35.5, y: -49.5}
+        - {x: 36.5, y: -49.5}
+        - {x: 44.5, y: -38.5}
+        - {x: 44.5, y: 11.5}
+        - {x: 23.5, y: 46.5}
+    - name: asteroid_01_35
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 398
+        width: 88
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 51.5}
+        - {x: -44, y: 28.5}
+        - {x: -44, y: -12.5}
+        - {x: -31, y: -51.5}
+        - {x: 23, y: -51.5}
+        - {x: 44, y: -41.5}
+        - {x: 44, y: 18.5}
+        - {x: 17, y: 51.5}
+    - name: asteroid_01_36
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 396
+        width: 89
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 53}
+        - {x: -44.5, y: 28}
+        - {x: -44.5, y: -15}
+        - {x: -36.5, y: -53}
+        - {x: 31.5, y: -53}
+        - {x: 44.5, y: -49}
+        - {x: 44.5, y: 18}
+        - {x: 35.5, y: 53}
+    - name: asteroid_01_37
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 395
+        width: 92
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 55}
+        - {x: -46, y: 25}
+        - {x: -46, y: -40}
+        - {x: -33, y: -55}
+        - {x: 46, y: -55}
+        - {x: 46, y: 14}
+        - {x: 35, y: 55}
+    - name: asteroid_01_38
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 396
+        width: 92
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 56}
+        - {x: -17, y: 56}
+        - {x: -46, y: 32}
+        - {x: -46, y: -27}
+        - {x: -32, y: -56}
+        - {x: 42, y: -56}
+        - {x: 46, y: -43}
+        - {x: 46, y: 12}
+        - {x: 39, y: 21}
+    - name: asteroid_01_39
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 396
+        width: 90
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 55}
+        - {x: -33, y: 55}
+        - {x: -45, y: 34}
+        - {x: -45, y: -22}
+        - {x: -38, y: -51}
+        - {x: -28, y: -55}
+        - {x: 30, y: -55}
+        - {x: 45, y: -41}
+        - {x: 45, y: 25}
+        - {x: 28, y: 51}
+    - name: asteroid_01_40
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 272
+        width: 90
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 19}
+        - {x: -45, y: -35}
+        - {x: -35, y: -52}
+        - {x: 45, y: -52}
+        - {x: 45, y: 2}
+        - {x: 31, y: 47}
+        - {x: 17, y: 52}
+        - {x: -28, y: 52}
+        - {x: -36, y: 48}
+    - name: asteroid_01_41
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 271
+        width: 89
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: -33.5}
+        - {x: -25.5, y: -52.5}
+        - {x: 44.5, y: -52.5}
+        - {x: 44.5, y: 20.5}
+        - {x: 35.5, y: 52.5}
+        - {x: -15.5, y: 52.5}
+        - {x: -44.5, y: 32.5}
+    - name: asteroid_01_42
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 268
+        width: 89
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 53}
+        - {x: -18.5, y: 53}
+        - {x: -44.5, y: 37}
+        - {x: -44.5, y: -37}
+        - {x: -24.5, y: -53}
+        - {x: 28.5, y: -53}
+        - {x: 44.5, y: -34}
+        - {x: 44.5, y: -1}
+        - {x: 35.5, y: 26}
+    - name: asteroid_01_43
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 269
+        width: 86
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 51.5}
+        - {x: -43, y: 34.5}
+        - {x: -43, y: -21.5}
+        - {x: -36, y: -33.5}
+        - {x: -22, y: -51.5}
+        - {x: 7, y: -51.5}
+        - {x: 43, y: -28.5}
+        - {x: 43, y: 16.5}
+        - {x: 19, y: 51.5}
+    - name: asteroid_01_44
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 269
+        width: 85
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 49.5}
+        - {x: -42.5, y: 28.5}
+        - {x: -42.5, y: -30.5}
+        - {x: -21.5, y: -49.5}
+        - {x: 14.5, y: -49.5}
+        - {x: 42.5, y: -24.5}
+        - {x: 42.5, y: 19.5}
+        - {x: 26.5, y: 49.5}
+    - name: asteroid_01_45
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 269
+        width: 83
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: 49.5}
+        - {x: -32.5, y: 49.5}
+        - {x: -41.5, y: 39.5}
+        - {x: -41.5, y: -22.5}
+        - {x: -30.5, y: -49.5}
+        - {x: 22.5, y: -49.5}
+        - {x: 41.5, y: -30.5}
+        - {x: 41.5, y: 23.5}
+        - {x: 40.5, y: 25.5}
+    - name: asteroid_01_46
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 270
+        width: 88
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 49}
+        - {x: -26, y: 49}
+        - {x: -44, y: 32}
+        - {x: -44, y: -13}
+        - {x: -32, y: -49}
+        - {x: 17, y: -49}
+        - {x: 40, y: -34}
+        - {x: 44, y: -19}
+        - {x: 44, y: 18}
+    - name: asteroid_01_47
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 271
+        width: 87
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.5, y: 47}
+        - {x: -43.5, y: -27}
+        - {x: -31.5, y: -47}
+        - {x: 22.5, y: -47}
+        - {x: 43.5, y: -25}
+        - {x: 43.5, y: 38}
+        - {x: 17.5, y: 47}
+    - name: asteroid_01_48
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 143
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 46.5}
+        - {x: -29, y: 46.5}
+        - {x: -46, y: 39.5}
+        - {x: -46, y: -4.5}
+        - {x: -43, y: -25.5}
+        - {x: -15, y: -46.5}
+        - {x: 6, y: -46.5}
+        - {x: 36, y: -35.5}
+        - {x: 46, y: -26.5}
+        - {x: 46, y: 14.5}
+        - {x: 42, y: 30.5}
+    - name: asteroid_01_49
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 144
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 45}
+        - {x: -46, y: -45}
+        - {x: 44, y: -45}
+        - {x: 46, y: -38}
+        - {x: 46, y: 37}
+        - {x: 19, y: 45}
+    - name: asteroid_01_50
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 146
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 47}
+        - {x: -19.5, y: 47}
+        - {x: -35.5, y: 43}
+        - {x: -48.5, y: 26}
+        - {x: -48.5, y: -47}
+        - {x: 48.5, y: -47}
+        - {x: 48.5, y: -7}
+        - {x: 37.5, y: 25}
+    - name: asteroid_01_51
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 146
+        width: 101
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.5, y: 29}
+        - {x: -50.5, y: -19}
+        - {x: -27.5, y: -48}
+        - {x: 18.5, y: -48}
+        - {x: 50.5, y: -31}
+        - {x: 50.5, y: -5}
+        - {x: 41.5, y: 23}
+        - {x: 5.5, y: 48}
+        - {x: -17.5, y: 48}
+        - {x: -49.5, y: 30}
+    - name: asteroid_01_52
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 147
+        width: 103
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 49}
+        - {x: -22.5, y: 49}
+        - {x: -51.5, y: 28}
+        - {x: -51.5, y: -37}
+        - {x: -49.5, y: -44}
+        - {x: -29.5, y: -49}
+        - {x: 19.5, y: -49}
+        - {x: 51.5, y: -34}
+        - {x: 51.5, y: -13}
+        - {x: 40.5, y: 21}
+    - name: asteroid_01_53
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 148
+        width: 103
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 48.5}
+        - {x: -40.5, y: 33.5}
+        - {x: -51.5, y: 20.5}
+        - {x: -51.5, y: -15.5}
+        - {x: -23.5, y: -48.5}
+        - {x: 19.5, y: -48.5}
+        - {x: 51.5, y: -33.5}
+        - {x: 51.5, y: 3.5}
+        - {x: 19.5, y: 48.5}
+    - name: asteroid_01_54
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 151
+        width: 104
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 47}
+        - {x: -52, y: 34}
+        - {x: -52, y: -14}
+        - {x: -33, y: -47}
+        - {x: 49, y: -47}
+        - {x: 52, y: -43}
+        - {x: 52, y: 2}
+        - {x: 20, y: 47}
+    - name: asteroid_01_55
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 148
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 48.5}
+        - {x: -52, y: 24.5}
+        - {x: -52, y: -27.5}
+        - {x: -25, y: -45.5}
+        - {x: -10, y: -48.5}
+        - {x: 31, y: -48.5}
+        - {x: 52, y: -41.5}
+        - {x: 52, y: -4.5}
+        - {x: 25, y: 48.5}
+    - name: asteroid_01_56
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 18
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 49}
+        - {x: -49.5, y: 27}
+        - {x: -49.5, y: -24}
+        - {x: -15.5, y: -49}
+        - {x: 24.5, y: -49}
+        - {x: 32.5, y: -47}
+        - {x: 49.5, y: -33}
+        - {x: 49.5, y: 35}
+        - {x: 23.5, y: 49}
+    - name: asteroid_01_57
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 18
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 48}
+        - {x: -48.5, y: 19}
+        - {x: -48.5, y: -19}
+        - {x: -11.5, y: -48}
+        - {x: 23.5, y: -48}
+        - {x: 31.5, y: -46}
+        - {x: 48.5, y: -35}
+        - {x: 48.5, y: -2}
+        - {x: 28.5, y: 48}
+    - name: asteroid_01_58
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 18
+        width: 90
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 47.5}
+        - {x: -45, y: 28.5}
+        - {x: -45, y: -21.5}
+        - {x: -13, y: -47.5}
+        - {x: 37, y: -47.5}
+        - {x: 45, y: -32.5}
+        - {x: 45, y: 25.5}
+        - {x: 32, y: 47.5}
+    - name: asteroid_01_59
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 20
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 46}
+        - {x: -45.5, y: 34}
+        - {x: -45.5, y: -17}
+        - {x: -34.5, y: -46}
+        - {x: 38.5, y: -46}
+        - {x: 45.5, y: -29}
+        - {x: 45.5, y: 17}
+        - {x: 25.5, y: 46}
+    - name: asteroid_01_60
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 20
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 44.5}
+        - {x: -46, y: 37.5}
+        - {x: -46, y: -27.5}
+        - {x: -16, y: -44.5}
+        - {x: 31, y: -44.5}
+        - {x: 46, y: -32.5}
+        - {x: 46, y: 24.5}
+        - {x: 28, y: 44.5}
+    - name: asteroid_01_61
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 20
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 44.5}
+        - {x: -44.5, y: 40.5}
+        - {x: -44.5, y: -29.5}
+        - {x: -15.5, y: -44.5}
+        - {x: 33.5, y: -44.5}
+        - {x: 44.5, y: -37.5}
+        - {x: 44.5, y: 26.5}
+        - {x: 28.5, y: 44.5}
+    - name: asteroid_01_62
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 19
+        width: 86
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 42.5}
+        - {x: 19, y: 46.5}
+        - {x: -18, y: 46.5}
+        - {x: -43, y: 30.5}
+        - {x: -43, y: -34.5}
+        - {x: -15, y: -46.5}
+        - {x: 33, y: -46.5}
+        - {x: 43, y: -34.5}
+        - {x: 43, y: 19.5}
+    - name: asteroid_01_63
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 16
+        width: 84
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 48}
+        - {x: -42, y: 29}
+        - {x: -42, y: -26}
+        - {x: -22, y: -48}
+        - {x: 32, y: -48}
+        - {x: 42, y: -36}
+        - {x: 42, y: 26}
+        - {x: 31, y: 48}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
