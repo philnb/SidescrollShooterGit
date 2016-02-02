@@ -70,6 +70,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\EnemyShipMovement.cs" />
     <Compile Include="Assets\Scripts\GameInit.cs" />
+    <Compile Include="Assets\Scripts\HUD.cs" />
     <Compile Include="Assets\Scripts\Health.cs" />
     <Compile Include="Assets\Scripts\Hit.cs" />
     <Compile Include="Assets\Scripts\Movement.cs" />
