@@ -10,7 +10,7 @@ public class ShipControls : MonoBehaviour {
 	private bool shotReady = true;
 	private float xpos;
 	private Rigidbody2D rig;
-	private Vector3 mousePos;
+	private Vector3 mousePos, viewPos;
 	private Vector2 newPos;
 
 	// Use this for initialization
@@ -64,4 +64,12 @@ public class ShipControls : MonoBehaviour {
     {
         shotReady = isReady;
     }
+
+    /*
+    private void keepInbounds()
+    {
+        viewPos = Camera.main.WorldToViewportPoint(transform.position);
+        viewPos.y = Mathf.Clamp01(viewPos.y);
+        transform.position = Camera.main.ViewportToWorldPoint(viewPos);
+    }*/
 }
