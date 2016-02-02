@@ -1,11 +1,11 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{B4F46945-0181-44E3-1EB7-7786B18B70F1}") = "SidescrollShooter", "Assembly-CSharp-firstpass.csproj", "{6FDCCA49-6FDD-B092-F616-DE760FE1BD87}"
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SidescrollShooter.CSharp.Plugins", "SidescrollShooter.CSharp.Plugins.csproj", "{2D61AD35-50BD-7AAB-8914-5742680FD2D9}"
 EndProject
-Project("{B4F46945-0181-44E3-1EB7-7786B18B70F1}") = "SidescrollShooter", "Assembly-CSharp.csproj", "{54AD4D60-F4ED-59BF-475B-5465EBD622E4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SidescrollShooter.CSharp", "SidescrollShooter.CSharp.csproj", "{D6853DE6-B904-EC73-ABE4-3C6DF0E631DD}"
 EndProject
-Project("{B4F46945-0181-44E3-1EB7-7786B18B70F1}") = "SidescrollShooter", "Assembly-CSharp-Editor.csproj", "{F65E2604-C7A8-DFAD-6FC3-1346D2C4C7B5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SidescrollShooter.CSharp.Editor", "SidescrollShooter.CSharp.Editor.csproj", "{A433C7EA-B2D5-B052-9662-36666A71F6D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,23 +13,20 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6FDCCA49-6FDD-B092-F616-DE760FE1BD87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6FDCCA49-6FDD-B092-F616-DE760FE1BD87}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6FDCCA49-6FDD-B092-F616-DE760FE1BD87}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6FDCCA49-6FDD-B092-F616-DE760FE1BD87}.Release|Any CPU.Build.0 = Release|Any CPU
-		{54AD4D60-F4ED-59BF-475B-5465EBD622E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{54AD4D60-F4ED-59BF-475B-5465EBD622E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{54AD4D60-F4ED-59BF-475B-5465EBD622E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{54AD4D60-F4ED-59BF-475B-5465EBD622E4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F65E2604-C7A8-DFAD-6FC3-1346D2C4C7B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F65E2604-C7A8-DFAD-6FC3-1346D2C4C7B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F65E2604-C7A8-DFAD-6FC3-1346D2C4C7B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F65E2604-C7A8-DFAD-6FC3-1346D2C4C7B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D61AD35-50BD-7AAB-8914-5742680FD2D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D61AD35-50BD-7AAB-8914-5742680FD2D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D61AD35-50BD-7AAB-8914-5742680FD2D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D61AD35-50BD-7AAB-8914-5742680FD2D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6853DE6-B904-EC73-ABE4-3C6DF0E631DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6853DE6-B904-EC73-ABE4-3C6DF0E631DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6853DE6-B904-EC73-ABE4-3C6DF0E631DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6853DE6-B904-EC73-ABE4-3C6DF0E631DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A433C7EA-B2D5-B052-9662-36666A71F6D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A433C7EA-B2D5-B052-9662-36666A71F6D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A433C7EA-B2D5-B052-9662-36666A71F6D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A433C7EA-B2D5-B052-9662-36666A71F6D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal

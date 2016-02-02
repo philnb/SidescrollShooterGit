@@ -26,16 +26,17 @@ public class ShipControls : MonoBehaviour {
 		
 		// Get the position of the mouse. These are not world coordinates yet.
 		mousePos	= Input.mousePosition;
-		/* We want the the world coordinates 10 units in front of the camera,
-		 * thus we set the z coordinate on the fixed value -10.
-		 * Why -10? Our main camera has the z coordinate -10 and all our other
+		/* We want the world coordinates 10 units in front of the camera,
+		 * thus we set the z coordinate on the fixed value 10.
+		 * Why 10? Our main camera has the z coordinate -10. So 10 is our distance
+         * from the camera(z:-10) to our "game-layer"(z:0).
 		 * stuff the z-coordinates 0.
 		 */
 		mousePos.z = 10;
 		mousePos = Camera.main.ScreenToWorldPoint(mousePos);
 
 		/* Now we move our spaceship with its rigidbody along the y-position of the mouse.
-		 * Note: Don use transform, because it will ignore all colliders then.
+		 * Note: Do not use transform, because it will ignore all colliders!
 		 */
 		rig.MovePosition(new Vector2(xpos, mousePos.y));
 
@@ -56,8 +57,11 @@ public class ShipControls : MonoBehaviour {
 		shotReady = true;
 	}
 
-	private void keepInBounds()
-	{
-
-	}
+    /* Set manually if the shot is ready. Needed for the pause menu.
+     *
+     */
+    public void setShotReady(bool isReady)
+    {
+        shotReady = isReady;
+    }
 }
