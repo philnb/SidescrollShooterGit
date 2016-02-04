@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/SidescrollShooter.unity
+- path: Assets/Scenes/MenueScene.unity
   isLoaded: 1
   isActive: 1
